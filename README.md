@@ -6,6 +6,8 @@ Frontend developer and Content writer
 
 I wrote my first lines of code in 2017 but have dropped coding to face my schooling squarely. But since 2020, I decided to pick it up again, and since then, I have learnt HTML, CSS, and JavaScript. I am currently learning ReactJS. I would appreciate it if you take a little time to go through my GitHub portfolio and see the awesome projects I've built/contributed to with my existing skills.
 
+Some things about Me
+-----------------------------
 * 🌍  I'm based in Enugu, Nigeria
 * ✉️  You can contact me at [ikechukwuprosper8@gmail.com](mailto:ikechukwuprosper8@gmail.com)
 * 🧠  I'm learning React and state management using Redux
@@ -13,6 +15,7 @@ I wrote my first lines of code in 2017 but have dropped coding to face my school
 * ⚡  I love writing and also a strong fan of Cristiano Ronaldo fan. I love to discuss on varying topics like personal development, football, technology and how to assist young people find their spark.
 
 ### Skills
+----------------
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -23,6 +26,7 @@ I wrote my first lines of code in 2017 but have dropped coding to face my school
 
 
 ### Socials
+---------------
 
 <p align="left"> <a href="https://www.github.com/Prospertech-github" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dev_prosper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/prosperikechukwu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@Prosper99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/devprosper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
