@@ -4,7 +4,7 @@ Hi 👋 My name is Prosper Ikechukwu
 Frontend developer and Content writer
 -------------------------------------
 
-I wrote my first lines of code in 2017 but have dropped coding to face my schooling squarely. But since 2020, I decided to pick it up again, and since then, I have learnt HTML, CSS, and JavaScript. I am currently learning ReactJS. I would appreciate it if you take a little time to go through my GitHub portfolio and see the awesome projects I've built/contributed to with my existing skills.
+I wrote my first lines of code in 2017 but dropped coding to face my schooling squarely. But since 2020, I decided to pick it up again, and since then, I have learnt HTML, CSS, and JavaScript. I am currently learning ReactJS. I would appreciate it if you take a little time to go through my GitHub portfolio and see the awesome projects I've built/contributed to with my existing skills.
 
 Some things about Me
 -----------------------------
