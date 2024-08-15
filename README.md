@@ -11,7 +11,7 @@ Some things about Me
 * 🌍  I'm based in Enugu, Nigeria
 * ✉️  You can contact me at [ikechukwuprosper8@gmail.com](mailto:ikechukwuprosper8@gmail.com)
 * 🧠  I'm open to learning more interesting JavaScript frameworks and libraries 
-* 🤝  I'm open to collaborating on interesting projects that will improve my current skill set.
+* 🤝  I'm open to collaborating on interesting projects. [Hire Me Now](http://www.plainvanilla.co/s/6f9744?u=21e77452)
 * ⚡  I love writing and am also a strong Cristiano Ronaldo fan. I love to discuss topics like personal development, football, technology, and how to assist young people find their spark.
 
 ### Skills
@@ -43,3 +43,6 @@ Some things about Me
 <a href="http://www.github.com/Prospertech-github"><img src="https://activity-graph.herokuapp.com/graph?username=Prospertech-github&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Prospertech-github" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prospertech-github&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+🤝  [Hire Me Now](http://www.plainvanilla.co/s/6f9744?u=21e77452)
