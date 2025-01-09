@@ -7,7 +7,6 @@ Frontend Web Developer
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [ikechukwuprosper8@gmail.com](mailto:ikechukwuprosper8@gmail.com)
-*   🧠  I'm learning Next.js and Redux Toolkit
 *   🤝  I'm open to collaborating on interesting projects in the ed-tech industry
 *   ⚡  I love football and love Cristiano Ronaldo
 
